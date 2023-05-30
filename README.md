@@ -1,4 +1,4 @@
-# JournalApp
+# Node-Calendar-Backend
 
 This project was generated with Express 4.18.2. It registers events on Mongo DB.
 
